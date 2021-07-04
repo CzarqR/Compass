@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="settings">Settings</string>
+    <string name="pick_one">Pick one</string>
+    <string name="cord_format">%s°, %s°</string>
+    <string name="destination">Destination</string>
+    <string name="distance">Distance</string>
+    <string name="distance_format_m">%1$.1f m</string>
+    <string name="distance_format_km">%1$.2f km</string>
+    <string name="destination_isnt_selected">Destination isn\'t selected</string>
+    <string name="select_destination">Select destination</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove_destination">Remove destination</string>
+    <string name="allow_location_permission">Give location permission</string>
+    <string name="compass">Compass</string>
+    <string name="degree_format">%d°</string>
+    <string name="destination_direction">Destination direction</string>
+    <string name="phone_direction">Phone direction</string>
+    <string name="turn_on_gps">Turn on GPS</string>
+    <string name="to_see_distance">To see distance</string>
+    <string name="give_location_permission">give location permission</string>
+    <string name="turn_on_gps_to_see_distance">Turn on GPS to see distance</string>
+    <string name="explain_permission_request">This app needs localization permission to be able to show You distance and direction to given destination. Go to settings and give us permission.</string>
+</resources>
