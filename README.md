@@ -17,5 +17,4 @@ The app allows navigating to the selected destination. The destination is select
 <hr>
 
 ###### Bugs
-###### Compas rotate animation isn't made in the shortest way. When rotation is changed from `1` to `359` it makes whole circle animation instead of rotating back.
 ###### Retrieved azimuth changes too fast in an irregular way so the compass sometimes shakes weirdly.
